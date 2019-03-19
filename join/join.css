@@ -1,0 +1,11 @@
+/*  Setup some basic styling for the body */
+body {
+  background: #95a6ff;
+  color: #fff;
+  font-family: "calibri";
+  text-align: center;
+}
+
+a {
+  color: #fff;
+}

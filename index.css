@@ -1,0 +1,25 @@
+/*  Setup some basic styling for the body */
+body {
+  background: #000000;
+  color: #fff;
+  font-family: "calibri";
+  text-align: center;
+}
+
+a {
+  color: #fff;
+}
+
+#start {
+  background: #92d990;
+  color: rgb(0, 0, 0);
+  font-family: "calibri";
+  text-align: center;
+}
+
+#join {
+  background: #95a6ff;
+  color: rgb(0, 0, 0);
+  font-family: "calibri";
+  text-align: center;
+}
